@@ -59,6 +59,7 @@
 			<key code="7" action="q"/>
 			<key code="8" action="j"/>
 			<key code="9" action="k"/>
+			<key code="10" output="$"/>
 			<key code="11" output="x"/>
 			<key code="12" output=";"/>
 			<key code="13" action=","/>
@@ -166,6 +167,7 @@
 			<key code="7" output="Q"/>
 			<key code="8" output="J"/>
 			<key code="9" output="K"/>
+			<key code="10" output="~"/>
 			<key code="11" output="X"/>
 			<key code="12" output=":"/>
 			<key code="13" output="&#x003C;"/>
@@ -271,6 +273,7 @@
 			<key code="7" output="q!"/>
 			<key code="8" output=""/>
 			<key code="9" output=""/>
+			<key code="10" output="£"/>
 			<key code="11" output=""/>
 			<key code="12" output=";"/>
 			<key code="13" output=","/>
@@ -360,6 +363,7 @@
 			<key code="7" output=""/>
 			<key code="8" output=""/>
 			<key code="9" output=""/>
+			<key code="10" output="€"/>
 			<key code="11" output=""/>
 			<key code="12" output=":"/>
 			<key code="13" output="&#x003C;="/>
@@ -449,6 +453,7 @@
 			<key code="7" output="Q"/>
 			<key code="8" output="J"/>
 			<key code="9" output="K"/>
+			<key code="10" output="~"/>
 			<key code="11" output="X"/>
 			<key code="12" output=";"/>
 			<key code="13" output=","/>
@@ -556,6 +561,7 @@
 			<key code="7" output="q"/>
 			<key code="8" output="j"/>
 			<key code="9" output="k"/>
+			<key code="10" output="$"/>
 			<key code="11" output="x"/>
 			<key code="12" output=":"/>
 			<key code="13" output="&#x003C;"/>
@@ -645,6 +651,7 @@
 			<key code="7" output="x"/>
 			<key code="8" output="c"/>
 			<key code="9" output="v"/>
+			<key code="10" output="~"/>
 			<key code="11" output="b"/>
 			<key code="12" output="q"/>
 			<key code="13" output="w"/>
@@ -751,6 +758,7 @@
 			<key code="7" output=""/>
 			<key code="8" output=""/>
 			<key code="9" output=""/>
+			<key code="10" output=""/>
 			<key code="11" output=""/>
 			<key code="12" output=""/>
 			<key code="13" output=""/>
@@ -840,6 +848,7 @@
 			<key code="7" output=""/>
 			<key code="8" output=""/>
 			<key code="9" output=""/>
+			<key code="10" output=""/>
 			<key code="11" output=""/>
 			<key code="12" output=""/>
 			<key code="13" output=""/>
@@ -929,6 +938,7 @@
 		    <key code="7" output="x"/>
 		    <key code="8" output="c"/>
 		    <key code="9" output="v"/>
+		    <key code="10" output="`"/>
 		    <key code="11" output="b"/>
 		    <key code="12" output="q"/>
 		    <key code="13" output="w"/>
