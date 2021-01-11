@@ -1,10 +1,10 @@
-Deep Dvorak keyboard layout for MacOS
+Programmer Dvorak Finnish Qwerty keyboard layout for MacOS
 ===========
 
-Deep Dvorak is modification of [Programmer Dvorak](http://www.kaufmann.no/roland/dvorak/index.html).
+- Programmer dvorak keyboard layout
+- Changes to Qwerty when Command (⌘) is pressed
+- Å, Ä and Ö
 
-It resembles "Dvorak-Qwerty ⌘" layout from the standard MacOS package.
-It substitute each key to QWERTY equivalent, when command key is pressed.
 
 ## Installation
 
@@ -15,27 +15,3 @@ It substitute each key to QWERTY equivalent, when command key is pressed.
  * Open System Preferences, click on the Language & Text icon, and in the Input Menu tab enable the Deep Dvorak layout.
  * Make sure that the Show input menu in menu bar box is also checked.
  * To switch quickly between layouts you can press Command+Space or Command+Option+Space. Note, this hotkey combination conflicts with the default settings for showing Spotlight. Check your settings in System Preferences, Keyboard, Keyboard Shortcuts tab, Spotlight against Keyboard & Text Input.
-
-### Screenshots
-
-* **Normal state**
-![Normal state](screenshots/normal.png)
-![](screenshots/normal.gif)
-
-* **SHIFT ⇧**
-![Shift state](screenshots/shift.png)
-
-* **Caps lock ⇪**
-![Shift state](screenshots/caps.png)
-
-* **Command ⌘**
-![](screenshots/h-cmd.gif)
-
-* **OPTION ⌥**
-![Option state](screenshots/alt.png)
-
-* **SHIFT+OPTION  (⇧+⌥)**
-![Shift+Option state](screenshots/alt-shift.png)
-
-* **Dead state**
-![Dead state](screenshots/dead.png)
